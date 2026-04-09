@@ -3,7 +3,7 @@
 -->
 
 # 💫 About Me:
-🔭I'm currently work with <br> - NodeJs, <br> - ReactJs, <br> - PHP <br>🌱 I’m currently learning Flutter, C# =)
+🔭I'm currently work with <br> - NodeJs, <br> - ReactJs, <br> - PHP <br> - Flutter <br>🌱 I’m currently learning LLM and AI build =)
 
 ## &nbsp;Tech Stack
 <div style ="display: flex;">
