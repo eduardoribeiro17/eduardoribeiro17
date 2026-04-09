@@ -3,7 +3,7 @@
 -->
 
 # 💫 About Me:
-🔭I'm currently work with <br> - NodeJs, <br> - ReactJs, <br> - PHP <br> - Flutter <br>🌱 I’m currently learning LLM and AI build =)
+🔭I'm currently work with <br> - NodeJs, <br> - ReactJs, <br> - Flutter <br>🌱 I’m currently learning LLM and AI build =)
 
 ## &nbsp;Tech Stack
 <div style ="display: flex;">
@@ -17,5 +17,5 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eduardoribeiro17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edu-ribeiro/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardoribeiro17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edu-ribeiro/) 
 
